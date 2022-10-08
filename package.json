@@ -1,0 +1,16 @@
+{
+  "name": "restapicrud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "BERTRAND",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
